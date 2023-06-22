@@ -113,9 +113,6 @@ public class BreakingFlowController {
         }
     }
 
-
-    //测试用的。使用原版模式已经足以满足大多数需求。
-    //just for test. The VANILLA mode is powerful enough.
     enum WorkingMode {
         CARPET_EXTRA,
         VANILLA,
